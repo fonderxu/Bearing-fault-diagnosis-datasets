@@ -1,0 +1,2 @@
+recursive-include py_cwru *.mp3 *.wav *.ogg
+recursive-include py_cwru *.txt
