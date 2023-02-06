@@ -6,14 +6,17 @@ Although the original '*. mat' file of CWRU can be downloaded automatically at t
 
 CWRU:
 Download Link：https://pan.xunlei.com/s/VNNBE0GiGHD5r5_l4BsYOTP-A1?pwd=3syk# 
+
 Extraction Code：3syk
 
 Paderborn:
-Download Link: https://www.aliyundrive.com/s/AanRmmBNZna  
+Download Link: https://www.aliyundrive.com/s/AanRmmBNZna 
+
 Extraction Code: 4qq9
 
 Jnu:
 Download Link: https://pan.xunlei.com/s/VNNVrpOoaEAPPdIODQaJQQcQA1?pwd=jnri# 
+
 Extraction Code: jnri
 
 You may need to reorganize dir if you download CWRU from the official file by following format:
@@ -68,5 +71,7 @@ Our code refers to [[Litchiware/cwru (github.com)](https://github.com/Litchiware
 
 for more details about each dataset please visit the following link:
 [1] CWRU: https://engineering.case.edu/bearingdatacenter/download-data-file.
+
 [2] Paderborn: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
+
 [3] Jnu: 
